@@ -1,4 +1,4 @@
-## Hello! <img height=17px src="img/hand_wave.gif">
+## Hello! 
 
 <img src="img/MARIA CHERIYAN.png">
 
@@ -14,7 +14,7 @@ Nice to meet you! I'm Maria Cheriyan, and I'm a current freshman at Harvard Univ
 <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" >&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/R-5E5C5C?style=for-the-badge&logo=r&logoColor=white">
 <img src="https://img.shields.io/badge/Python-E34F26?style=for-the-badge&logo=python&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/C#-1572B6?style=for-the-badge&logo=c#&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/C#-1572B6?style=for-the-badge&logo=csharp&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Swift-323330?style=for-the-badge&logo=swift&logoColor=F7DF1E">&nbsp;&nbsp;
 
 
