@@ -6,7 +6,7 @@ Nice to meet you! I'm Maria Cheriyan, and I'm a current freshman at Harvard Univ
 
 ### Programming Languages
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;&nbsp;
@@ -14,7 +14,7 @@ Nice to meet you! I'm Maria Cheriyan, and I'm a current freshman at Harvard Univ
 <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" >&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/R-5E5C5C?style=for-the-badge&logo=r&logoColor=white">
 <img src="https://img.shields.io/badge/Python-E34F26?style=for-the-badge&logo=python&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/C#-1572B6?style=for-the-badge&logo=csharp&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/C Sharp-1572B6?style=for-the-badge">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Swift-323330?style=for-the-badge&logo=swift&logoColor=F7DF1E">&nbsp;&nbsp;
 
 
